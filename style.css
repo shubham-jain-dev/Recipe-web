@@ -41,3 +41,22 @@ a{
     display: flex;
     gap: 40px;
 }
+.footer{
+    background: rgb(73, 73, 251);
+    background: linear-gradient(90deg, rgb(133, 95, 147) 0%, rgba(9,9,121,1) 35%, rgba(1,187,239,1) 92%, rgba(0,212,255,1) 100%);
+    
+    text-align: center;
+    min-height: 40px;
+    
+}
+.footer p{
+    font-size: 1.5rem;
+    color: azure;
+}
+
+.contentBox{
+    width: 70%;
+    margin: auto;
+    border: 2px solid black;
+
+}
